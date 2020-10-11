@@ -1,4 +1,5 @@
 ### Hi there 👋
+## I am nelson omoi, a web application/system developer. 
 
 <!--
 **nelsonomoi/nelsonomoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
