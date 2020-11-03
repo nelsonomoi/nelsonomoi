@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I am nelson omoi, a web application/system developer. I love programming and doing amazing projects that touch directly life of other people amazes me.
-## I am very proeficient in web development ( laravel Php , Django and React), Android development (Java and beginner kotlin). I started coding in python 3yrs ago and have never stopped due to love of it and passion for machine learning.
+#### I am nelson omoi, a web application/system developer. I love programming and doing amazing projects that touch directly life of other people amazes me.
+#### I am very proeficient in web development ( laravel Php , Django and React), Android development (Java and beginner kotlin). I started coding in python 3yrs ago and have never stopped due to love of it and passion for machine learning.
 
 <!--
 **nelsonomoi/nelsonomoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
