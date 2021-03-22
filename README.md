@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am web application/system developer. Programing is life.
+#### I am web application/system developer.
 
 
 <!--
