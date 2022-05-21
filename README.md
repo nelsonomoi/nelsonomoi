@@ -7,7 +7,7 @@ I'm a full stack developer i breath code for the web and android platforms.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , React, RDBMS, NoSQL, AWS, Jenkins, Java, Android, Python, PHP,
+Javascript, HTML, CSS , RDBMS, NoSQL, AWS, Python, PHP, Go
 
 
 ## 🔗 Links
