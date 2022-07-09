@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer i breath code for the web and android platforms.
+I'm a full stack developer i breath code for the web and mobile apps.
 
 
 ## 🛠 Skills
