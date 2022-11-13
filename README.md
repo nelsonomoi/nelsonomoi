@@ -6,9 +6,6 @@
 I'm a full stack developer i breath code for the web and mobile apps.
 
 
-## 🛠 Skills
-Javascript, HTML, CSS , RDBMS, NoSQL, AWS, Python, Go, Java
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oumoi.herokuapp.com/)
