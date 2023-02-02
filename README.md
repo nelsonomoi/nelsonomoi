@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer i breath code for the web and mobile apps.
+I am software developer with more than 3yrs of experience in software development and business analysis. I write code for the backend in frondend in Java, Python and Golang.
 
 
 
