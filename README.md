@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-Just a code lover
+It gives me joy seing my product being utilized in solving peoples problems
 
 
 
