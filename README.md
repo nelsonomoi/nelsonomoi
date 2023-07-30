@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-It gives me joy seing my product being utilized in solving peoples problems
+Coding is my passion. I code in Java (Spring boot), Angular and Python.
 
 
 
